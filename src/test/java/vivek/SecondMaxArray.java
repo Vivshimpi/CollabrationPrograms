@@ -18,7 +18,7 @@ public class SecondMaxArray
 				largest = a[i];//loop1 largest=3/ loop4 largest=4
 			}
 			          //3             //4
-			if(a[i]>=secondl && a[i]<largest)
+			else if(a[i]>=secondl && a[i]<largest)
 			{
 				secondl = a[i];//3
 			}
