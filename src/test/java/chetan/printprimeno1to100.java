@@ -19,4 +19,3 @@ public class printprimeno1to100 {
 	}
 }
 
-
