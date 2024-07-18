@@ -6,9 +6,6 @@
       <class name="testNGPractice.TestNGDependsOnMethod">
         <methods>
           <include name="openapp"/>
-          <include name="search"/>
-          <include name="advSearch"/>
-          <include name="login"/>
         </methods>
       </class> <!-- testNGPractice.TestNGDependsOnMethod -->
     </classes>
