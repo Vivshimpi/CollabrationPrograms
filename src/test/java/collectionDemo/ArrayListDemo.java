@@ -39,7 +39,8 @@ public class ArrayListDemo
   *        it allowed null values
   *        it allowed duplicate values
   *        
-  *       
+  *   * in hashSet we can only do add, modify, access and remove                       
+     
   * 
   * 
   * 
